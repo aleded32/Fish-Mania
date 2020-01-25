@@ -424,7 +424,7 @@ while (app.isOpen()) {
 
 				fish.setPosition(fishX = j * 45 + 100, fishY = i * 45);
 
-				player.setColor(fishColour[5]);
+				player.setColor(Color::White);
 				player.setPosition(playerX * 45 + 100, playerY * 45);
 
 

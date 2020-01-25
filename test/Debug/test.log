@@ -1,7 +1,7 @@
-﻿  Source.cpp
-e:\test\test\source.cpp(54): warning C4390: ';' : empty controlled statement found; is this the intent?
-e:\test\test\source.cpp(171): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
-e:\test\test\source.cpp(235): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
-e:\test\test\source.cpp(425): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
-e:\test\test\source.cpp(428): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
-  test.vcxproj -> E:\test\Debug\test.exe
+﻿  main.cpp
+e:\fishmania\test\main.cpp(54): warning C4390: ';' : empty controlled statement found; is this the intent?
+e:\fishmania\test\main.cpp(173): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\fishmania\test\main.cpp(235): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\fishmania\test\main.cpp(425): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+e:\fishmania\test\main.cpp(428): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+  test.vcxproj -> E:\fishMania\Debug\test.exe

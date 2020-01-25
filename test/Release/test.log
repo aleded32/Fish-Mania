@@ -1,2 +1,9 @@
-﻿  Source.cpp
-Source.cpp(2): fatal error C1083: Cannot open include file: 'SFML/Graphics.hpp': No such file or directory
+﻿  main.cpp
+main.cpp(54): warning C4390: ';' : empty controlled statement found; is this the intent?
+main.cpp(173): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+main.cpp(235): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+main.cpp(425): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+main.cpp(428): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+  Generating code
+  Finished generating code
+  test.vcxproj -> E:\fishMania\Release\test.exe
